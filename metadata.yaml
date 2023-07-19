@@ -1,0 +1,60 @@
+_repo: Idan-aarelta-b-Kuvia-ja-luonnoksia-Japanista_71006
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hirn, Y. (Yrjö)
+    aliases:
+    - Hirn, Y. (Yrjo)
+    - Hirn, Yrjö
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '53996'
+    url: http://www.gutenberg.org/2009/agents/53996
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Yrj%C3%B6_Hirn
+    - https://fi.wikipedia.org/wiki/Yrj%C3%B6_Hirn
+  translator:
+    agent_name: Stenberg, Herman
+    alias: Stenberg, Kaarlo Herman
+    birthdate: 1873
+    deathdate: 1928
+    gutenberg_agent_id: '56036'
+    url: http://www.gutenberg.org/2009/agents/56036
+    wikipedia: https://fi.wikipedia.org/wiki/Herman_Stenberg
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: https://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: 'Translated selections from: Kokoro, Exotics and retrospectives, In ghostly
+  Japan, and Kotto.'
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71006'
+language: fi
+pgterms:marc905: 20210212222630hearn
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bYrjö Weilin, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan'
+- !lcc 'DS'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Lafcadio Hearn / Yrjö Hirn -- Vanhoillinen (A conservative) -- Karman
+  voimasta (By force of Karma) -- Amidan temppelin nunna (The nun of the temple of
+  Amida) -- Kimiko -- Haru -- Parfum de jeunesse -- Katkelma (A fragment) -- Yöulvoja
+  koira (Ululation) -- Kusa-Hibari -- Yaidzussa (At Yaidzu).
+title: 'Idän ääreltä : $b Kuvia ja luonnoksia Japanista'
+url: http://www.gutenberg.org/ebooks/71006
