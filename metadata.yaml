@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '56036'
     url: http://www.gutenberg.org/2009/agents/56036
     wikipedia: https://fi.wikipedia.org/wiki/Herman_Stenberg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -35,6 +38,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: 'Translated selections from: Kokoro, Exotics and retrospectives, In ghostly
   Japan, and Kotto.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71006#Idan-aarelta-b-Kuvia-ja-luonnoksia-Japanista
 gutenberg_issued: '2023-06-21'
 identifiers:
   gutenberg: '71006'
